@@ -46,13 +46,6 @@ Tech: PHP · MySQL · jQuery
 
 **Tools:** Docker, Git & GitHub
 
-### GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nadaalamri-9&show_icons=true&count_private=false&theme=default" alt="Nada's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadaalamri-9&layout=compact&theme=default" alt="Top languages" height="165"/>
-</p>
-
 ---
 
 <p align="center">📍 Riyadh, Saudi Arabia</p>
