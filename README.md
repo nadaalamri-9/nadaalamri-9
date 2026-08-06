@@ -86,23 +86,35 @@ End-to-end vulnerability intelligence pipeline combining Kafka, Delta Lake, Airf
 
 **Languages**
 
-Python · JavaScript · Swift · PHP
+Python · JavaScript · Swift · PHP · SQL · HTML · CSS
 
-**Frameworks & Libraries**
+**Frontend & Mobile**
 
-React · FastAPI · SwiftUI · Vite · SQLAlchemy
+React · Vite · React Router · SwiftUI · Combine · Responsive Web Design
 
-**AI & LLMs**
+**Backend & APIs**
 
-OpenAI API · Claude API · RAG · ChromaDB · Prompt Engineering
+FastAPI · RESTful APIs · JWT Authentication · Role-Based Access Control · SQLAlchemy · SQLModel
 
 **Databases**
 
-SQLite · MySQL
+MySQL · SQLite · MongoDB · ChromaDB
+
+**AI & LLMs**
+
+OpenAI API · Claude API · Large Language Models (LLMs) · Retrieval-Augmented Generation (RAG) · Prompt Engineering
+
+**Data Technologies**
+
+Kafka · PySpark · Delta Lake · Airflow · Great Expectations · OpenLineage
 
 **Cloud & DevOps**
 
-AWS Amplify · Docker · Git · GitHub
+AWS EC2 · AWS Amplify · Docker · Git · GitHub · CI/CD · Jenkins · Netlify · Vercel · Render
+
+**Tools & Design**
+
+VS Code · Xcode · Figma
 
 ---
 
