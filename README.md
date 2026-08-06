@@ -26,95 +26,11 @@ Building end-to-end software products, AI-powered applications, and iOS apps fro
 
 ## About Me
 
-I'm a Software Engineer passionate about building end-to-end software products using React, FastAPI, and SwiftUI.
+I'm a Software Engineer passionate about building end-to-end software products using modern technologies.
 
-I enjoy turning ideas into practical applications and have a particular interest in Artificial Intelligence, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and cloud technologies.
+My interests include AI applications, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), cloud technologies, and creating software that solves real-world problems.
 
----
-
-## Featured Projects
-
-### **[PromptMind](https://github.com/nadaalamri-9/PromptMind)**
-
-AI prompt-building assistant that transforms rough ideas into clear, structured, reusable prompts using RAG-powered guidance and quality scoring.
-
-**Tech:** React · Vite · FastAPI · OpenAI API · ChromaDB · RAG
-
----
-
-### **[MEYAR](https://github.com/nadaalamri-9/MEYAR)**
-
-AI-powered contract compliance assistant that analyzes Saudi procurement contracts against the Government Tenders and Procurement Law (GTPL) using Claude and RAG, then generates compliance reports and negotiation letters.
-
-**Tech:** FastAPI · React · Claude API · ChromaDB · RAG
-
----
-
-### **[InOne](https://github.com/nadaalamri-9/InOne)**
-
-Role-based portfolio platform where students, employers, coaches, and administrators collaborate through dedicated dashboards.
-
-**Tech:** FastAPI · React · SQLAlchemy · Docker
-
----
-
-### **[AI Resume Evaluator](https://github.com/nadaalamri-9/AI-Resume-Evaluator)**
-
-AI-powered resume evaluation platform that compares resumes with job descriptions and generates match scores, strengths, gaps, and personalized recommendations.
-
-**Tech:** FastAPI · React · OpenAI API · JWT Authentication
-
----
-
-### **[Florimood](https://github.com/nadaalamri-9/Florimood)**
-
-SwiftUI iOS application for daily mood tracking with guided breathing exercises, reflection prompts, and progress tracking.
-
-**Tech:** Swift · SwiftUI
-
----
-
-### **[CVE Lakehouse Copilot](https://github.com/nadaalamri-9/cve-lakehouse-copilot)**
-
-End-to-end vulnerability intelligence pipeline combining Kafka, Delta Lake, Airflow, Great Expectations, OpenLineage, and standards-grounded RAG.
-
-**Tech:** Kafka · PySpark · Delta Lake · Airflow · ChromaDB · RAG
-
----
-
-## Tech Stack
-
-**Languages**
-
-Python · JavaScript · Swift · PHP · SQL · HTML · CSS
-
-**Frontend & Mobile**
-
-React · Vite · React Router · SwiftUI · Combine · Responsive Web Design
-
-**Backend & APIs**
-
-FastAPI · RESTful APIs · JWT Authentication · Role-Based Access Control · SQLAlchemy · SQLModel
-
-**Databases**
-
-MySQL · SQLite · MongoDB · ChromaDB
-
-**AI & LLMs**
-
-OpenAI API · Claude API · Large Language Models (LLMs) · Retrieval-Augmented Generation (RAG) · Prompt Engineering
-
-**Data Technologies**
-
-Kafka · PySpark · Delta Lake · Airflow · Great Expectations · OpenLineage
-
-**Cloud & DevOps**
-
-AWS EC2 · AWS Amplify · Docker · Git · GitHub · CI/CD · Jenkins · Netlify · Vercel · Render
-
-**Tools & Design**
-
-VS Code · Xcode · Figma
+I enjoy building web applications, AI-powered solutions, and iOS apps while continuously learning and exploring new technologies.
 
 ---
 
