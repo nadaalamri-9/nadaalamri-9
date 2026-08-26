@@ -9,7 +9,7 @@ Building end-to-end software products, AI-powered applications, and iOS apps fro
 </p>
 
 <p align="center">
-<a href="https://main.d10ydqypm5fafr.amplifyapp.com/">
+<a href="https://www.nadaalamri.com">
 <img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
