@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Nada Alamri 👋</h1>
 
 <h3 align="center">
@@ -32,6 +31,8 @@ I'm an AI Engineer with a background in software engineering, specializing in ag
 My experience includes multi-agent architectures, retrieval-augmented generation (RAG), LLM evaluation, and full-stack development using Python, LangGraph, LangChain, FastAPI, React, PostgreSQL, Docker, and AWS.
 
 Currently, I'm an AI Engineer Intern at My Trip, contributing to AI-powered features for a travel application. I'm also pursuing a Master's degree in Computer Information Systems.
+
+**Highlights:** 2nd place at the SDA Hackathon (MEYAR) · NASA Space Apps Challenge 2026 (TerraAnalog) · Published research paper in IJCI
 
 ---
 
